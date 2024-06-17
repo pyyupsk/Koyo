@@ -4,7 +4,7 @@ Kōyō is an aesthetic color scheme inspired by Japanese culture. It showcases v
 
 [![Preview](.github/assets/preview.png)](.github/assets/preview.png)
 
-Experience live previews of Kōyō Color Scheme themes for [shadcn/ui](https://ui.jln.dev/).
+Experience live previews of Kōyō Color Scheme themes for [shadcn/ui](https://ui.jln.dev/theme/Xw2o5JbREEWK4QLS).
 
 ## Colors
 
